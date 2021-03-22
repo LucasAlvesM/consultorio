@@ -16,7 +16,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `ScreenShots`
-### link to run application online ----> https://consultorio-dentista-lucasalves.netlify.app/
+### Link to run application online ----> https://consultorio-dentista-lucasalves.netlify.app/
 ### HomePage
 <img alt="CapturaTelaInicio" src="https://github.com/LucasAlvesM/consultorio/blob/master/telaHome.png?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 ### Contact
