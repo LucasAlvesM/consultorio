@@ -1,0 +1,28 @@
+.img-convenio{
+    width: 250px;
+    height: 150px;
+    object-fit: contain;
+}
+.card-convenio{
+
+    padding: 20px;
+    margin: 10px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+
+.lista-convenios{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
